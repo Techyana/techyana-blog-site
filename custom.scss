@@ -1,0 +1,7 @@
+// custom.scss
+// Override Bootstrap variables here
+$primary: #ff5722;
+$secondary: #00bcd4;
+
+// Import Bootstrap's SASS files
+@import './node_modules/bootstrap/scss/bootstrap';
